@@ -1,2 +1,3 @@
 liste personnages :
- - 
+ - Un roi
+ - Un personnage secondaire
